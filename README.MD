@@ -19,3 +19,13 @@ To setup the project locally, follow these steps:
 ## Contributing
 
 Contributions are welcome. Please open an issue or submit a pull request.
+
+## Screenshots 
+
+![feature](screenshots/feature.png)
+![home](screenshots/homePage.png)
+![landing](screenshots/landingPage.png)
+![products](screenshots/products.png)
+## License
+
+This project is licensed under the MIT License.
